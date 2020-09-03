@@ -1,0 +1,43 @@
+{
+  "message": "Hello Welcome to MOA",
+  "header": {
+    "home" : "Home",
+    "about" : "About",
+    "product": "Product",
+    "contact": "Contact",
+    "blog" : "Blog",
+    "service": "Service",
+    "login": "Login",
+    "register": "Signup"
+  },
+  "about": {
+    "title": "Hi,",
+    "name": "I'm Dinh Duc Thien",
+    "mess": "Nice to meet you",
+    "text": "About Me",
+    "intro" : "Hello, my name is Dinh Duc Thien, I am currently a developer. With the purpose of building an ecosystem, the community of people uses clean products,  quality food, and environmentally friendly goods. Meet the needs of everyone. In this ecosystem, we will sell vegetarian products, quality drinking water, medicines, tea, etc.Quality, dedication, love in each products.",
+    "sologan": "Quality, dedication, love in each products."
+  },
+  "home": {
+    "title": "MOA Website",
+    "content": "This is my personal project, For the purpose of learning, gaining more knowledge about FE and BE",
+    "pro": "Project MOA",
+    "by" : "Coding by Duc Thien Version v0.0.1",
+    "cod": "Coding is my life and joy, where I can unleash creativity!",
+    "come": "Web App is under development"
+  },
+  "user" : {
+    "account" : "Account",
+    "cart" : "My Cart",
+    "bi" : "Billing",
+    "set" : "Setting",
+    "help" : "Help",
+    "logout" : "Logout"
+  },
+  "reg" : {
+    "email": "Email",
+    "username": "Username",
+    "password" : "Passowrd",
+    "Cpass": "Confirm Password"
+  }
+}

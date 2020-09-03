@@ -1,0 +1,43 @@
+{
+  "message": "Chào Mừng Bạn Đến Với MOA!!",
+  "header": {
+    "home" : "Home",
+    "about" : "About",
+    "product": "Product",
+    "contact": "Contact",
+    "blog" : "Blog",
+    "service": "Service",
+    "login": "Login",
+    "register": "Signup"
+  },
+  "about": {
+    "title": "Xin Chào,",
+    "name": "Tôi tên là Đinh Đức Thiện",
+    "mess": "Rất hân hạnh được làm quen với bạn",
+    "text": "Về Chúng Tôi",
+    "intro" : "Xin chào, tôi là Đinh Đức Thiện, Hiện tại tôi đang là developer.Với mục đích xây dựng hệ sinh thái, cộng đồng người sử dụng các sản phẩm,thực phẩm sạch, hàng hóa chất lượng, thân thiện với môi trường. Đáp ứng nhu cầu của tất cả mọi người. Trong hệ sinh thái này chúng tôi sẽ bán các sản phẩm chay, nước uống chất lượng, các loại thuốc, trà v.v. Chất lượng, tận tâm, đem yêu thương trong từng sản phẩm.",
+    "sologan": "Chất lượng, tận tâm, đem yêu thương trong từng sản phẩm."
+  },
+  "home": {
+    "title": "Chào mừng bạn đến với MOA",
+    "content": "Đây là dự án cá nhân của tôi, với mục đích học hỏi, có thêm kiến ​​thức về FE và BE",
+    "pro": "Dự Án MOA",
+    "by" : "Coding bởi Đức Thiện Phiên bản V0.0.1",
+    "cod": "Coding là cuộc sống và niềm vui của tôi, nơi tôi có thể thỏa sức sáng tạo!",
+    "come": "Web App đang trong quá trình phát triễn"
+  },
+  "user" : {
+    "account" : "Tài Khoản",
+    "cart" : "Giỏ Hàng",
+    "bi" : "Thanh Toán",
+    "set" : "Cài Đặt",
+    "help" : "Trợ Giúp",
+    "logout" : "Đăng Xuất"
+  },
+  "reg" : {
+    "email": "Email",
+    "username": "Username",
+    "password" : "Passowrd",
+    "Cpass": "Confirm Password"
+  }
+}
